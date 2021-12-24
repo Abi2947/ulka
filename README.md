@@ -22,6 +22,7 @@ A simpler static site generator written in JavaScript to transform ulka and mark
 
    ```bash
    npx ulka create <app-name> <template_url> -i npm
+   ##  npx ulka create <app-name> <template_url> -i yarn
 
    ## OR
 
